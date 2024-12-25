@@ -2,6 +2,9 @@
 
 A simple Asteroids-inspired game built using [Ebiten](https://ebiten.org/), a 2D game library for Go. Pilot your ship, shoot bullets, and destroy asteroids while avoiding collisions.
 
+
+![Asteroids](https://github.com/dhawal-pandya/Asteroids/blob/main/asteroids.png)
+
 ## Features
 - Rotating and moving ship
 - Shooting bullets to destroy asteroids
